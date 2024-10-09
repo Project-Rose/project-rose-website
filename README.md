@@ -1,2 +1,2 @@
-# project-rose-website
+# Project Rose Website
 Website for Project Rose

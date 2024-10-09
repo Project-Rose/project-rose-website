@@ -205,18 +205,26 @@ img.logo {
 }
 
 .devs>a:nth-child(2) {
-    background: url(/img/cardboard.png) center center, #ff6000;
-}
-
-.devs>a:nth-child(3) {
     background: url(/img/cardboard.png) center center, #00c037;
 }
 
+.devs>a:nth-child(3) {
+    background: url(/img/cardboard.png) center center, #ff6000;
+}
+
 .devs>a:nth-child(4) {
-    background: url(/img/cardboard.png) center center, #00ebf7;
+    background: url(/img/cardboard.png) center center, #f3145e;
 }
 
 .devs>a:nth-child(5) {
+    background: url(/img/cardboard.png) center center, #4b0082;
+}
+
+.devs>a:nth-child(6) {
+    background: url(/img/cardboard.png) center center, #00ebf7;
+}
+
+.devs>a:nth-child(7) {
     background: url(/img/cardboard.png) center center, #c700db;
 }
 
