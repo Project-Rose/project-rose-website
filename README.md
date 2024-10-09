@@ -1,2 +1,2 @@
-# Project Rose Website
+# Project Rosé Website
 Website for Project Rose
