@@ -217,7 +217,7 @@ img.logo {
 }
 
 .devs>a:nth-child(5) {
-    background: url(/img/cardboard.png) center center, #4b0082;
+    background: url(/img/cardboard.png) center center, #7c00d6
 }
 
 .devs>a:nth-child(6) {
@@ -435,4 +435,54 @@ img.logo {
     .devs>a {
         height: 185px;
     }
+}
+
+.key-input {
+    width: 400px;
+    height: 70px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 40px;
+    border-radius: 8px;
+    color: #323232;
+    text-align: center;
+    line-height: 1.2;
+    text-shadow: 0px -2px #f0f0f0;
+    background: #ffffff;
+    font-family: nintendo !important;
+    border: 2px solid #747474;
+    box-shadow: inset 0px 2px 7px -1px rgba(0, 0, 0, 0.40), 0px 2px 0px 0px #ffffff;
+}
+
+.select.red {
+    border-bottom-color: #f200dc;
+    color: #f200dc;
+}
+
+.select.tumblr {
+    color: #0044c6;
+    border-bottom-color: #0044c6;
+}
+
+.select.twttr {
+    color: #00aed1;
+    border-bottom-color: #00aed1;
+}
+
+.confirm-input {
+    background: -webkit-gradient(linear, left top, left bottom, from(#666666), color-stop(0.6, #212121), color-stop(0.6, #161616), to(#595959)) !important;
+    color: #fff !important;
+    text-shadow: 0px -2px 0px #000 !important;
+    -webkit-box-shadow: inset 0px 2px 0px -1px #000000, inset 0px 0px 0px 2px #2e2e2e, 0px 1px 6px rgba(0, 0, 0, 0.35) !important;
+    box-shadow: inset 0px 2px 0px -1px #000000, inset 0px 0px 0px 2px #2e2e2e, 0px 1px 6px rgba(0, 0, 0, 0.35) !important;
+}
+
+.exp a {
+    transition: 0.2s;
+    -webkit-transition: 0.2s;
+}
+
+.exp a:hover {
+    transform: scale(1.05);
+    -webkit-transform: scale(1.05);
 }

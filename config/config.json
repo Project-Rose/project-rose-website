@@ -1,5 +1,10 @@
 {
   "http": {
     "port": 80
+  },
+  "api": {
+    "twttr_consumer_key" : "p7uz3rHOsBW3MZo2f8XO91MG4",
+    "twttr_consumer_secret" : "wWLeAHVlBGy0iP9kGMKchTwy9QbAkH0udqgvq1nvQzQz7TbddM",
+    "website_url" : "https://projectrose.cafe"
   }
 }
